@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Nicholas and I am an aspiring Front-End Web Developer.
+
+🌱 I’m currently learning HTML5, CSS3 & Javascript.
+
 <!--
 **nicholasmihoulides/nicholasmihoulides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
